@@ -134,7 +134,7 @@ Number of combinations for 20: 2
 This project is licensed under the MIT License.
 
 ## Author
-© 2024 [Anthony Aoun](https://github.com/Anthony-Aoun). All rights reserved.
+© 2025 [Anthony Aoun](https://github.com/Anthony-Aoun). All rights reserved.
 
 This project is open-source and free to use for educational purpouses only.
 
